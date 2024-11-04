@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'article',
     'user',
     'crispy_forms',
-    'crispy_bootstrap4',
     'ckeditor',
     'django_cleanup',
 ]
